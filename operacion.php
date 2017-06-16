@@ -16,5 +16,5 @@
 			$res="Operación inválida";
 		}
 	}
-
+echo $res;
 ?>
